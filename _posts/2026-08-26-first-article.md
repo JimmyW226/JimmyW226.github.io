@@ -1,5 +1,3 @@
-</> Markdown
-
 ---
 layout: post
 title: "My First Article"
