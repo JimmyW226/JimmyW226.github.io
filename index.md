@@ -1,5 +1,3 @@
-</> Markdown
-
 ---
 layout: default
 ---
