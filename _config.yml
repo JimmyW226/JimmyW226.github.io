@@ -1,0 +1,7 @@
+title: My Website
+description: Welcome to my website, where I publish my articles.
+url: "https://JimmyW226.github.io"
+baseurl: ""
+theme: minima
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
