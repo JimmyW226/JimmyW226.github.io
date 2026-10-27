@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Welcome to My Website
+# Lindfield RCIA Program Readings - Scriptures
 
 Welcome! This is where I publish my articles.
 
-## My Articles
+## Articles regarding Scriptures
 
 {% for post in site.posts reversed %}
 ### [{{ post.title }}]({{ post.url }})
