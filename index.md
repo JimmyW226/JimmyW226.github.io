@@ -4,7 +4,7 @@ layout: default
 
 # Lindfield RCIA Program Readings - Scriptures
 
-Welcome! This is where I publish my articles.
+The following articles are for your reading to know the basics about Scriptures regarding your Christian life.
 
 ## Articles regarding Scriptures
 
