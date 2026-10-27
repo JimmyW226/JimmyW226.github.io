@@ -2,6 +2,7 @@
 layout: post
 title: "My First Article"
 date: 2026-08-26
+excerpt: "This is a demo content of My First Article"
 ---
 
 # My First Article
