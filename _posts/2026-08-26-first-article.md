@@ -2,7 +2,7 @@
 layout: post
 title: "Basic Concepts"
 date: 2026-08-26
-excerpt: "This is a demo content of My First Article"
+excerpt: "This is a demo content of the Basic Concepts about Scriptures"
 ---
 
 # What is Scriptures
