@@ -2,7 +2,7 @@
 layout: post
 title: "What is Scripture?"
 date: 2026-10-27
-excerpt: "This article explains what it means by '"Scripture'" to Christians"
+excerpt: "This article explains what it means by 'Scripture' to Christians"
 ---
 
 # What is "Scripture"?
