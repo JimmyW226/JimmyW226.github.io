@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "What is "Scripture"?"
+title: "What is Scripture?"
 date: 2026-10-27
 excerpt: "This is a demo content of the Basic Concepts about Scriptures"
 ---
 
 # What is "Scripture"?
 
-	You are approaching the "word of God". This is the title Christians most commonly give to the Bible, and the expression is
+	You are approaching the "word of God". This is the title Christians most commonly give to the Bible, and the expression is 
 	rich in meaning. It is also the title given to the Second Person of the Blessed Trinity, God the Son. For Jesus Christ
 	became flesh for our salvation, and "the name by which he is called is The Word of God" (Rev 19:13; cf. Jn 1:14).
 		
