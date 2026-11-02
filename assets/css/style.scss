@@ -8,7 +8,7 @@
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  font-size: clamp(16px, 1.1vw + 12px, 19px);
+  font-size: clamp(16px, calc(1.1vw + 12px), 19px);
   line-height: 1.8;
 }
 
@@ -19,14 +19,14 @@
 
 /* Article headings */
 .main-content h1 {
-  font-size: clamp(26px, 4vw, 36px);
+  font-size: clamp(26px, calc(2vw + 16px), 36px);
 }
 
 .main-content h2 {
-  font-size: clamp(22px, 3vw, 28px);
+  font-size: clamp(22px, calc(1.5vw + 13px), 28px);
 }
 
-/* Images automatically fit the screen */
+/* Images */
 .main-content img {
   max-width: 100%;
   height: auto;
@@ -37,5 +37,7 @@
   .main-content {
     font-size: 17px;
     line-height: 1.75;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
