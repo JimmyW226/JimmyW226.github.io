@@ -15,7 +15,9 @@ Fortunately the Church has given us guidelines in our study of Scripture. The un
 
 	
 1) We must "[be especially attentive to the content and unity of the whole Scripture'" (CCC 112).
+
 2) ﻿﻿﻿We must "read the Scripture within 'the living Tradition of the whole Church'" (CCC 113).
+
 3) We must "be attentive to the analogy of faith" (CCC 114; cf. Rom 12:6).
 
 These criteria protect us from many of the dangers that ensnare readers of the Bible, from the newest inquirer to the most prestigious scholar. Reading Scripture out of context is one such pitfall, and probably the one most difficult to avoid. A memorable cartoon from the 1950s shows a young man poring over the pages of the Bible. He says to his sister: "Don't bother me now; I'm trying to find a Scripture verse to back up one of my preconceived notions. No doubt a biblical text pried from its context can be twisted to say something very different from what its author actually intended.
