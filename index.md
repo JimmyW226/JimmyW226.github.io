@@ -4,7 +4,7 @@ layout: default
 
 # RCIA Program Readings - Scriptures
 
-The following articles are for your reading to know the basics about Scriptures regarding Christian life.
+The following articles are some basic concepts about Scriptures and why and how it is important to Christian lives.
 
 ## Articles regarding Scriptures
 
