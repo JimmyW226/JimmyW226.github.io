@@ -2,7 +2,7 @@
 layout: default
 title: "What is Scripture?"
 date: 2026-08-26
-excerpt:
+excerpt: "..."
 ---
 
 # What is "Scripture"?
