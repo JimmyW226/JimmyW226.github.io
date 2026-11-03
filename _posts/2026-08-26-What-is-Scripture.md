@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "What is Scripture?"
+title: "Introduction"
 date: 2026-08-26
 excerpt: "..."
 ---
 
-# What is "Scripture"?
+# Introduction
 
 You are approaching the "word of God". This is the title Christians most commonly give to the Bible, and the expression is rich in meaning. It is also the title given to the Second Person of the Blessed Trinity, God the Son. For Jesus Christ became flesh for our salvation, and "the name by which he is called is The Word of God" (Rev 19:13; cf. Jn 1:14).
 
