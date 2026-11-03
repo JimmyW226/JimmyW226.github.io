@@ -13,7 +13,7 @@ In searching out the full sense of a text, we should always avoid the extreme te
 
 Fortunately the Church has given us guidelines in our study of Scripture. The unique character and divine authorship of the Bible call us to read it "in the Spirit" (Dei Verbum 12). Vatican II outlines this teaching in a practical way by directing us to read the Scriptures according to three specific criteria:
 
-	
+
 1) We must "[be especially attentive to the content and unity of the whole Scripture'" (CCC 112).
 
 2) ﻿﻿﻿We must "read the Scripture within 'the living Tradition of the whole Church'" (CCC 113).
