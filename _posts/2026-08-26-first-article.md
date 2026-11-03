@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "What is Scripture?"
-date:
+date: 2026-08-26
 excerpt:
 ---
 
