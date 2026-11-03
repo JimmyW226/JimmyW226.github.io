@@ -11,10 +11,6 @@ The following articles are some basic concepts about Scriptures and why and how 
 {% for post in site.posts reversed %}
 ### [{{ post.title }}]({{ post.url }})
 
-{{ post.date | date: "%B %d, %Y" }}
-
-{{ post.excerpt }}
-
 [Read more →]({{ post.url }})
 
 {% endfor %}
