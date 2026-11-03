@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title: "Inspiration and Inerrancy"
 date: 2026-10-27
-excerpt: "This is a demo content about Reading Scriptures"
+excerpt: "..."
 ---
 		
 The Catholic Church makes mighty claims for the Bible, and our acceptance of those claims is essential if we are to read the Scriptures and apply them to our lives as the Church intends. So it is not enough merely to nod at words like "inspired", "unique", or "inerrant". We have to understand what the Church means by these terms, and we have to make that understanding our own. After all, what we believe about the Bible will inevitably influence the way we read the Bible. The way we read the Bible, in turn, will determine what we "get out" of its sacred pages.
