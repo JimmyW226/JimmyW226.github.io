@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "What is Scripture?"
+date:
+excerpt:
 ---
 
 # What is "Scripture"?
