@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Senses of Scripture"
+date: 2026-11-03
+excerpt: "..."
+---
 Because the Bible has both divine and human authors, we are required to master a different sort of reading than we are used to.
 
 ## Literal Scense
