@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-![The Holy Bible](/assets/images/general/Bible.jpeg)
-
 <p align="center">
   <img src="/assets/images/general/Bible.jpeg"
        alt="Bible"
