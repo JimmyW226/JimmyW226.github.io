@@ -32,6 +32,6 @@ The second criterion places the Bible firmly within the context of a community t
 
 ## The Third Criterion
 
-The third criterion places scriptural texts within the framework of faith. If we believe that the Scriptures are divinely inspired, we must also believe them to be internally coherent and consistent with all the doctrines that Christians believe. Remem-ber, the Church's dogmas (such as the Real Pres-ence, the papacy, the Immaculate Conception) are not something added to Scripture; rather, they are the Church's infallible interpretation of Scripture.
+The third criterion places scriptural texts within the framework of faith. If we believe that the Scriptures are divinely inspired, we must also believe them to be internally coherent and consistent with all the doctrines that Christians believe. Remember, the Church's dogmas (such as the Real Presence, the papacy, the Immaculate Conception) are not something added to Scripture; rather, they are the Church's infallible interpretation of Scripture.
 
 
