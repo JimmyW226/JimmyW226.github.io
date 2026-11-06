@@ -4,6 +4,13 @@ title: "The Senses of Scripture"
 date: 2026-11-03
 excerpt: "..."
 ---
+
+<p align="center">
+  <img src="/assets/images/christian-life/Senses-of-Scripture-2.jpeg"
+       alt="Senses-of-Scripture"
+       width="100%">
+</p>
+
 Because the Bible has both divine and human authors, we are required to master a different sort of reading than we are used to.
 
 ## Literal Scense
