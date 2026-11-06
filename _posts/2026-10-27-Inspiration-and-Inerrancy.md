@@ -4,7 +4,11 @@ title: "Inspiration and Inerrancy"
 date: 2026-10-27
 excerpt: "..."
 ---
-
+<p align="center">
+  <img src="/assets/images/scripture/Inspiration-and-Inerrancy-2.jpeg"
+       alt="Inspiration-and-Inerrancy"
+       width="100%">
+</p>
 The Catholic Church makes mighty claims for the Bible, and our acceptance of those claims is essential if we are to read the Scriptures and apply them to our lives as the Church intends. So it is not enough merely to nod at words like "inspired", "unique", or "inerrant". We have to understand what the Church means by these terms, and we have to make that understanding our own. After all, what we believe about the Bible will inevitably influence the way we read the Bible. The way we read the Bible, in turn, will determine what we "get out" of its sacred pages.
 
 These principles hold true no matter what we read: a news report, a search warrant, an advertisement, a paycheck, a doctor's prescription, an eviction notice. How (or whether) we read these things depends largely upon our preconceived notions about the reliability and authority of their sources and the potential they have for affecting our lives. In some cases, to misunderstand a document's authority can lead to dire consequences. In others, it can keep us from enjoying rewards that are rightfully ours. In the case of the Bible, both the rewards and the consequences involved take on an ultimate value.
