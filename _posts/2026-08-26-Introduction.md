@@ -17,3 +17,8 @@ The word of God is Scripture. The Word of God is Jesus. This close association b
 Yet we can say that the inspired word resembles the incarnate Word in several important ways. Jesus Christ is the Word of God incarnate. In his human-ity, he is like us in all things, except for sin. As a work of man, the Bible is like any other book, except without error. Both Christ and Scripture, says the Second Vatican Council, are given "for the sake of our salvation" (**Dei Verbum 11**), and both give us God's definitive revelation of himself. We cannot, therefore, conceive of one without the other: the Bible without Jesus, or Jesus without the Bible. Each is the interpretive key to the other. And because Christ is the subject of all the Scriptures, St. Jerome insists, "Ignorance of the Scriptures is ignorance of Christ"  (**CCC 133**).
 
 When we approach the Bible, then, we approach Jesus, the Word of God; and in order to encounter Jesus, we must approach him in a prayerful study of the inspired word of God, the Sacred Scriptures.
+
+**Note:**
+1. **CCC :** Catechism of the Catholic Church
+2. **Revelation 19:13:** "He is clothed in a robe dipped in blood, and his name is called The Word of God."
+3. **John 1:14:** "And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth."
