@@ -9,6 +9,7 @@ excerpt: "..."
        alt="Introduction"
        width="100%">
 </p>
+
 You are approaching the "word of God". This is the title Christians most commonly give to the Bible, and the expression is rich in meaning. It is also the title given to the Second Person of the Blessed Trinity, God the Son. For Jesus Christ became flesh for our salvation, and "the name by which he is called is The Word of God" (**Rev 19:13; cf. Jn 1:14**).
 
 The word of God is Scripture. The Word of God is Jesus. This close association between God's written word and his eternal Word is intentional and has been the custom of the Church since the first generation. "All Sacred Scripture is but one book, and this one book is Christ, 'because all divine Scripture speaks of Christ, and all divine Scripture is fulfilled in Christ'" (**CCC 134**). This does not mean that the Scriptures are divine in the same way that Jesus is divine. They are, rather, divinely inspired and, as such, are unique in world literature, just as the Incarnation of the eternal Word is unique in human history.
