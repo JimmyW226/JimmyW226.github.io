@@ -9,6 +9,7 @@ excerpt: "..."
        alt="Biblical-Authority"
        width="100%">
 </p>
+
 ## God's Revelation and His Purpose to Save us
 
 Implicit in these doctrines is God's desire to make himself known to the world and to enter a loving relationship with every man, woman, and child he has created. God gave us the Scriptures not just to inform or motivate us; more than anything he wants to save us. This higher purpose underlies every page of the Bible, indeed every word of it.
