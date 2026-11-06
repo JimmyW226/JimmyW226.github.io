@@ -42,3 +42,18 @@ The spiritual reading of Scripture is nothing new. Indeed, the very first Christ
 The New Testament later describes the Tabernacle of ancient Israel as "a copy and shadow of the heavenly sanctuary" (**Heb 8:5**) and the Mosaic Law as a "shadow of the good things to come" (**Heb 10:1**). St. Peter, in turn, notes that Noah and his family were "saved through water" in a way that "corresponds" to sacramental Baptism, which "now saves you" (**1 Pet 3:20-21**). It is interesting to note that the expression translated as "corresponds" in this verse is a Greek term that denotes the fulfillment or counterpart of an ancient "type".
 
 We need not look to the apostles, however, to justify a spiritual reading of the Bible. After all, Jesus himself read the Old Testament this way. He referred to Jonah (**Mt 12:39**), Solomon (**Mt 12:42**), the Temple (**Jn 2:19**), and the brazen serpent (**Jn 3:14**) as "signs" that pointed forward to him. We see in Luke's Gospel, as Christ comforted the disciples on the road to Emmaus, that "beginning with Moses and all the prophets, he interpreted to them in all the Scriptures the things concerning himself" (**Lk 24:27**). It was precisely this extensive spiritual interpretation of the Old Testament that made such an impact on these once-discouraged travelers, causing their hearts to "burn" within them (**Lk 24:32**).
+
+**Note:**
+1. **CCC :** Catechism of the Catholic Church
+2. **2 Corinthian 3:5-6:** ""
+3. **Rome 5:14:** ""
+4. **Galatian 4:24** ""
+5. **Hebrew 8:5:** ""
+6. **Hebrew 10:1:** ""
+7. **1 Peter 3:20-21:** ""
+8. **Matthew 12:39:** ""
+9. **Matthew 12:42:** ""
+10. **John 2:19:** ""
+11. **John 3:14:** ""
+12. **Luke 24:27:** ""
+13. **Luke 24:32:** ""
