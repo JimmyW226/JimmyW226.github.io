@@ -45,7 +45,6 @@ The Church's criteria guide us here by defining what constitutes the authentic "
        alt="Criteria-for-Interpretation-3"
        width="100%">
 </p>
-
 The second criterion places the Bible firmly within the context of a community that treasures a "living tradition". That community is the People of God down through the ages. Christians lived out their faith for well over a millennium before the printing press was invented. For centuries, few believers owned copies of the Gospels, and few people could read anyway. Yet they absorbed the gospel-through the sermons of their bishops and clergy, through prayer and meditation, through Christian art, through liturgical celebrations, and through oral tradition. These were expressions of the one "living tradition", a culture of living faith that stretches from ancient Israel to the contemporary Church. For the early Christians, the gospel could not be understood apart from that tradition. So it is with us. Reverence for the Church's tradition is what protects us from any sort of chronological or cultural provincialism, such as scholarly fads that arise and carry away a generation of interpreters before being dismissed by the next generation.
 
 ## The Third Criterion
