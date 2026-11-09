@@ -24,4 +24,4 @@ The principle of biblical inerrancy follows logically from this principle of div
 The guarantee of inerrancy does not mean, how-ever, that the Bible is an all-purpose encyclopedia of information covering every field of study. The Bible is not, for example, a textbook in the empirical sciences, and it should not be treated as one. When biblical authors relate facts of the natural order, we can be sure they are speaking in a purely descriptive and "phenomenological" way, according to the way things appeared to their senses.
 
 **Note:**
-1. **2 Timothy 3:16:** ""
+1. **2 Timothy 3:16:** "All scripture is inspired by God and is useful for teaching, for reproof, for correction, and for training in righteousness,"
