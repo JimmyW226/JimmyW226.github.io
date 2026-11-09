@@ -37,23 +37,23 @@ The New Testament did not, therefore, abolish the Old. Rather, the New fulfilled
 
 ## Examples by the Apostles and Jesus Himself
 
-The spiritual reading of Scripture is nothing new. Indeed, the very first Christians read the Bible this way. St. Paul describes Adam as a "type" that prefigured Jesus Christ (**Rom 5:14**). A "type" is a real person, place, thing, or event in the Old Testament that foreshadows something greater in the New. From this term we get the word "typology", referring to the study of how the Old Testament prefigures Christ (**CCC 128-30**). Elsewhere St. Paul draws deeper meanings out of the story of Abraham's sons, declaring, "This is an allegory" (**Gal 4:24**). He is not suggesting that these events of the distant past never really happened; he is saying that the events both happened and signified something more glorious yet to come.
+The spiritual reading of Scripture is nothing new. Indeed, the very first Christians read the Bible this way. St. Paul describes Adam as a "type" that prefigured Jesus Christ (**Rom 5:14**). A "type" is a real person, place, thing, or event in the Old Testament that foreshadows something greater in the New. From this term we get the word "typology", referring to the study of how the Old Testament prefigures Christ (**CCC 128-30**). Elsewhere St. Paul draws deeper meanings out of the story of Abraham's sons, declaring, "This is an allegory" (**Gal 4:24-26**). He is not suggesting that these events of the distant past never really happened; he is saying that the events both happened and signified something more glorious yet to come.
 
 The New Testament later describes the Tabernacle of ancient Israel as "a copy and shadow of the heavenly sanctuary" (**Heb 8:5**) and the Mosaic Law as a "shadow of the good things to come" (**Heb 10:1**). St. Peter, in turn, notes that Noah and his family were "saved through water" in a way that "corresponds" to sacramental Baptism, which "now saves you" (**1 Pet 3:20-21**). It is interesting to note that the expression translated as "corresponds" in this verse is a Greek term that denotes the fulfillment or counterpart of an ancient "type".
 
 We need not look to the apostles, however, to justify a spiritual reading of the Bible. After all, Jesus himself read the Old Testament this way. He referred to Jonah (**Mt 12:39**), Solomon (**Mt 12:42**), the Temple (**Jn 2:19**), and the brazen serpent (**Jn 3:14**) as "signs" that pointed forward to him. We see in Luke's Gospel, as Christ comforted the disciples on the road to Emmaus, that "beginning with Moses and all the prophets, he interpreted to them in all the Scriptures the things concerning himself" (**Lk 24:27**). It was precisely this extensive spiritual interpretation of the Old Testament that made such an impact on these once-discouraged travelers, causing their hearts to "burn" within them (**Lk 24:32**).
 
-**Note:**
+**Reference**
 1. **CCC :** Catechism of the Catholic Church
-2. **2 Corinthian 3:5-6:** ""
-3. **Rome 5:14:** ""
-4. **Galatian 4:24** ""
-5. **Hebrew 8:5:** ""
-6. **Hebrew 10:1:** ""
-7. **1 Peter 3:20-21:** ""
-8. **Matthew 12:39:** ""
-9. **Matthew 12:42:** ""
-10. **John 2:19:** ""
-11. **John 3:14:** ""
-12. **Luke 24:27:** ""
-13. **Luke 24:32:** ""
+2. **2 Corinthians 3:5-6:** "God,who has indeed qualified us as ministers of a new covenant, not of letter but of spirit; for the letter brings death, but the Spirit gives life."
+3. **Rome 5:14:** "Yet death exercised dominion from Adam to Moses, even over those whose sins were not like the transgression of Adam, who is a type of the one who was to come."
+4. **Galatians 4:24-26** "Now this is an allegory: these women are two covenants. One woman, in fact, is Hagar ... Now Hagar is Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children. But the other woman corresponds to the Jerusalem above; she is free, and she is our mother. "
+5. **Hebrew 8:5:** "They offer worship in a sanctuary that is a sketch and shadow of the heavenly one"
+6. **Hebrew 10:1:** "Since the law has only a shadow of the good things to come and not the true form of these realities"
+7. **1 Peter 3:20-21:** "in the days of Noah, during the building of the ark, in which a few, that is, eight persons, were saved through water. And baptism, which this prefigured, now saves you.... as an appeal to God for a good conscience, through the resurrection of Jesus Christ"
+8. **Matthew 12:39:** "But he answered them, “An evil and adulterous generation asks for a sign, but no sign will be given to it except the sign of the prophet Jonah."
+9. **Matthew 12:42:** "The queen of the South will rise up at the judgment with this generation and condemn it, because she came from the ends of the earth to listen to the wisdom of Solomon, and see, something greater than Solomon is here!"
+10. **John 2:19:** "Jesus answered them, “Destroy this temple, and in three days I will raise it up.""
+11. **John 3:14:** "And just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,"
+12. **Luke 24:27:** "Then beginning with Moses and all the prophets, he interpreted to them the things about himself in all the scriptures."
+13. **Luke 24:32:** "They said to each other, “Were not our hearts burning within us while he was talking to us on the road, while he was opening the scriptures to us?” "
