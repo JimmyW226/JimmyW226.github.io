@@ -18,7 +18,7 @@ Yet we can say that the inspired word resembles the incarnate Word in several im
 
 When we approach the Bible, then, we approach Jesus, the Word of God; and in order to encounter Jesus, we must approach him in a prayerful study of the inspired word of God, the Sacred Scriptures.
 
-**Note:**
+## **References **
 1. **CCC :** Catechism of the Catholic Church
 2. **Revelation 19:13:** "He is clothed in a robe dipped in blood, and his name is called The Word of God."
 3. **John 1:14:** "And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth."
