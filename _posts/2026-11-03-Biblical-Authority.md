@@ -23,4 +23,4 @@ God's word is thus saving, fatherly, and per-sonal. Because it speaks directly t
 This test applies not only to rank-and-file believers but also to the Church's theologians and hierarchy, and even the Magisterium. Vatican II has stressed in recent times that Scripture must be "the very soul of sacred theology" (**Dei Verbum 24**). As Joseph Cardinal Ratzinger, Pope Benedict XVI echoed this powerful teaching with his own, insisting that, "The normative theologians are the authors of Holy Scripture" (emphasis added). He reminded us that Scripture and the Church's dogmatic teaching are tied tightly together, to the point of being inseparable: "Dogma is by definition nothing other than an interpretation of Scripture." The defined dogmas of our faith, then, encapsulate the Church's infallible interpretation of Scripture, and theology is a further reflection upon that work.
 
 **Note:**
-1. **Genesis 6:6:** ""
+1. **Genesis 6:6:** "And the LORD was sorry that he had made humankind on the earth, and it grieved him to his heart."
