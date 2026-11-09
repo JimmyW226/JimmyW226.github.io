@@ -57,4 +57,6 @@ The second criterion places the Bible firmly within the context of a community t
 
 The third criterion places scriptural texts within the framework of faith. If we believe that the Scriptures are divinely inspired, we must also believe them to be internally coherent and consistent with all the doctrines that Christians believe. Remember, the Church's dogmas (such as the Real Presence, the papacy, the Immaculate Conception) are not something added to Scripture; rather, they are the Church's infallible interpretation of Scripture.
 
-
+## **References**
+1. **CCC :** Catechism of the Catholic Church
+2. **Rome 12:6:** "We have gifts that differ according to the grace given to us: prophecy, in proportion to faith;" 
