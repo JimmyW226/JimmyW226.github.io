@@ -43,7 +43,7 @@ The New Testament later describes the Tabernacle of ancient Israel as "a copy an
 
 We need not look to the apostles, however, to justify a spiritual reading of the Bible. After all, Jesus himself read the Old Testament this way. He referred to Jonah (**Mt 12:39**), Solomon (**Mt 12:42**), the Temple (**Jn 2:19**), and the brazen serpent (**Jn 3:14**) as "signs" that pointed forward to him. We see in Luke's Gospel, as Christ comforted the disciples on the road to Emmaus, that "beginning with Moses and all the prophets, he interpreted to them in all the Scriptures the things concerning himself" (**Lk 24:27**). It was precisely this extensive spiritual interpretation of the Old Testament that made such an impact on these once-discouraged travelers, causing their hearts to "burn" within them (**Lk 24:32**).
 
-**Reference**
+## **References**
 1. **CCC :** Catechism of the Catholic Church
 2. **2 Corinthians 3:5-6:** "God,who has indeed qualified us as ministers of a new covenant, not of letter but of spirit; for the letter brings death, but the Spirit gives life."
 3. **Rome 5:14:** "Yet death exercised dominion from Adam to Moses, even over those whose sins were not like the transgression of Adam, who is a type of the one who was to come."
