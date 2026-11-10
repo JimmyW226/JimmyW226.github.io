@@ -29,7 +29,7 @@ Catholic tradition recognizes three spiritual senses that stand upon the foundat
 
 **(3)** The third is the anagogical sense, which points upward to heavenly glory. It shows us how countless events in the Bible prefigure our final union with God in eternity and how things that are "seen" on earth are figures of things "unseen" in heaven. Because the anagogical sense leads us to contemplate our destiny, it is meant to build up the virtue of hope. Together with the literal sense, then, these spiritual senses draw out the fullness of what God wants to give us through his Word and as such comprise what ancient tradition has called the "full sense" of Sacred Scripture.
 
-## Why is it important?
+## All Senses are integrated to bring the Unity between the Old and New in God's salvation Plan
 
 All of this means that the deeds and events of the Bible are charged with meaning beyond what is immediately apparent to the reader. In essence, that meaning is Jesus Christ and the salvation he died to give us. This is especially true of the books of the New Testament, which proclaim Jesus explic-itly; but it is also true of the Old Testament, which speaks of Jesus in more hidden and symbolic ways. The human authors of the Old Testament told us as much as they were able, but they could not clearly discern the shape of all future events standing at such a distance. It is the Bible's divine Author, the Holy Spirit, who could and did foretell the saving work of Christ, from the first page of the Book of Genesis onward.
 
