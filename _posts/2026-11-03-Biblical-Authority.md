@@ -16,7 +16,7 @@ Implicit in these doctrines is God's desire to make himself known to the world a
 
 In order to reveal himself, God used what theologians call "accommodation". Sometimes the Lord stoops down to communicate by "condescension"-that is, he speaks as humans speak, as if he had the same passions and weakness that we do for example, God says he was "sorry" that he made man in **Genesis 6:6**). Other times he communicates by "elevation"-that is, by endowing human words with divine power (for example, through the Prophets). The numerous examples of divine accommodation in the Bible are an expression of God's wise and fatherly ways. For a sensitive father can speak with his children either by condescension, as in baby talk, or by elevation, by bringing a child's understanding up to a more mature level.
 
-## What does Scripture mean to us Christians
+## What does Scripture mean to us as Christians
 
 God's word is thus saving, fatherly, and per-sonal. Because it speaks directly to us, we must never be indifferent to its content; after all, the word of God is at once the object, cause, and support of our faith. It is, in fact, a test of our faith, since we see in the Scriptures only what faith disposes us to see. If we believe what the Church believes, we will see in Scripture the saving, inerrant, and divinely authored revelation of the Father. If we believe otherwise, we see another book altogether.
 
